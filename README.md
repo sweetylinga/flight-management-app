@@ -5,6 +5,15 @@ A modern Flight Booking Management System built using Next.js, React, Tailwind C
 This project simulates a real-world airline booking flow with multi-step booking, seat selection, booking management, and persistent state management.
 
 ---
+# 🌐 Live Deployment
+
+Live App:
+https://flight-management-ik68bcpr0-sweetylingas-projects.vercel.app
+
+GitHub Repository:
+https://github.com/sweetylinga/flight-management-app
+
+---
 
 # 🚀 Features
 
