@@ -10,7 +10,7 @@ This project simulates a real-world airline booking experience where users can s
 
 Live Application:
 
-https://flight-management-ik68bcpr0-sweetylingas-projects.vercel.app
+https://flight-management-5bacd4tz3-sweetylingas-projects.vercel.app/
 
 GitHub Repository:
 
